@@ -1,6 +1,5 @@
 === MailHog for WordPress ===
 Contributors: tareq1988
-Donate link: https://tareq.co/donate/
 Tags: smtp, wp mail smtp, wordpress smtp, mail, mailer, phpmailer, wp_mail, email, wp smtp
 Requires at least: 4.0
 Tested up to: 5.8
